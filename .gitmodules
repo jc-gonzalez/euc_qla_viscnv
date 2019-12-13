@@ -1,0 +1,9 @@
+[submodule "htools"]
+	path = htools
+	url = https://github.com/jc-gonzalez/euc_qla_htools.git
+[submodule "q"]
+	path = q
+	url = https://github.com/jc-gonzalez/euc_qla_q.git
+[submodule "log"]
+	path = log
+	url = https://github.com/jc-gonzalez/euc_qla_log.git
